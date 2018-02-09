@@ -4,3 +4,171 @@ Sharks
 OrderedDict([('Name', 'Karl Saygan'), ('Height (inches)', '42'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Heather Bledsoe')]), OrderedDict([('Name', 'Diego Soto'), ('Height (inches)', '41'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Robin and Sarika Soto')]), OrderedDict([('Name', 'Sammy Adams'), ('Height (inches)', '45'), ('Soccer Experience', 'NO'), ('Guardian Name(s)', 'Jeff Adams')])
 Raptors
 OrderedDict([('Name', 'Phillip Helm'), ('Height (inches)', '44'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Thomas Helm and Eva Jones')]), OrderedDict([('Name', 'Herschel Krustofski'), ('Height (inches)', '45'), ('Soccer Experience', 'YES'), ('Guardian Name(s)', 'Hyman and Rachel Krustofski')]), OrderedDict([('Name', 'Ben Finkelstein'), ('Height (inches)', '44'), ('Soccer Experience', 'NO'), ('Guardian Name(s)', 'Aaron and Jill Finkelstein')])
+DragonsnJoe SmithYESJim and Jan Smith
+
+Jill TannerYESClara Tanner
+
+Bill BonYESSara and Jenny Bon
+
+Eva GordonNOWendy and Mike Gordon
+
+Matt GillNOCharles and Sylvia Gill
+
+Kimmy SteinNOBill and Hillary Stein
+
+SharksnKarl SayganYESHeather Bledsoe
+
+Suzane GreenbergYESHenrietta Dumas
+
+Diego SotoYESRobin and Sarika Soto
+
+Sammy AdamsNOJeff Adams
+
+Sal DaliNOGala Dali
+
+Joe KavalierNOSam and Elaine Kavalier
+
+RaptorsnPhillip HelmYESThomas Helm and Eva Jones
+
+Les ClayYESWynonna Brown
+
+Herschel KrustofskiYESHyman and Rachel Krustofski
+
+Ben FinkelsteinNOAaron and Jill Finkelstein
+
+Chloe AlaskaNODavid and Jamie Alaska
+
+Arnold WillisNOClaire Willis
+
+DragonsnJoe Smith,YES,Jim and Jan Smith
+
+Jill Tanner,YES,Clara Tanner
+
+Bill Bon,YES,Sara and Jenny Bon
+
+Eva Gordon,NO,Wendy and Mike Gordon
+
+Matt Gill,NO,Charles and Sylvia Gill
+
+Kimmy Stein,NO,Bill and Hillary Stein
+
+SharksnKarl Saygan,YES,Heather Bledsoe
+
+Suzane Greenberg,YES,Henrietta Dumas
+
+Diego Soto,YES,Robin and Sarika Soto
+
+Sammy Adams,NO,Jeff Adams
+
+Sal Dali,NO,Gala Dali
+
+Joe Kavalier,NO,Sam and Elaine Kavalier
+
+RaptorsnPhillip Helm,YES,Thomas Helm and Eva Jones
+
+Les Clay,YES,Wynonna Brown
+
+Herschel Krustofski,YES,Hyman and Rachel Krustofski
+
+Ben Finkelstein,NO,Aaron and Jill Finkelstein
+
+Chloe Alaska,NO,David and Jamie Alaska
+
+Arnold Willis,NO,Claire Willis
+
+DragonsnJoe Smith,YES,Jim and Jan Smith
+
+Jill Tanner,YES,Clara Tanner
+
+Bill Bon,YES,Sara and Jenny Bon
+
+Eva Gordon,NO,Wendy and Mike Gordon
+
+Matt Gill,NO,Charles and Sylvia Gill
+
+Kimmy Stein,NO,Bill and Hillary Stein
+
+SharksnKarl Saygan,YES,Heather Bledsoe
+
+Suzane Greenberg,YES,Henrietta Dumas
+
+Diego Soto,YES,Robin and Sarika Soto
+
+Sammy Adams,NO,Jeff Adams
+
+Sal Dali,NO,Gala Dali
+
+Joe Kavalier,NO,Sam and Elaine Kavalier
+
+RaptorsnPhillip Helm,YES,Thomas Helm and Eva Jones
+
+Les Clay,YES,Wynonna Brown
+
+Herschel Krustofski,YES,Hyman and Rachel Krustofski
+
+Ben Finkelstein,NO,Aaron and Jill Finkelstein
+
+Chloe Alaska,NO,David and Jamie Alaska
+
+Arnold Willis,NO,Claire Willis
+
+Dragons
+Joe Smith, YES, Jim and Jan Smith
+
+Jill Tanner, YES, Clara Tanner
+
+Bill Bon, YES, Sara and Jenny Bon
+
+Eva Gordon, NO, Wendy and Mike Gordon
+
+Matt Gill, NO, Charles and Sylvia Gill
+
+Kimmy Stein, NO, Bill and Hillary Stein
+
+Sharks
+Karl Saygan, YES, Heather Bledsoe
+
+Suzane Greenberg, YES, Henrietta Dumas
+
+Diego Soto, YES, Robin and Sarika Soto
+
+Sammy Adams, NO, Jeff Adams
+
+Sal Dali, NO, Gala Dali
+
+Joe Kavalier, NO, Sam and Elaine Kavalier
+
+Raptors
+Phillip Helm, YES, Thomas Helm and Eva Jones
+
+Les Clay, YES, Wynonna Brown
+
+Herschel Krustofski, YES, Hyman and Rachel Krustofski
+
+Ben Finkelstein, NO, Aaron and Jill Finkelstein
+
+Chloe Alaska, NO, David and Jamie Alaska
+
+Arnold Willis, NO, Claire Willis
+
+Dragons
+Joe Smith, YES, Jim and Jan Smith
+Jill Tanner, YES, Clara Tanner
+Bill Bon, YES, Sara and Jenny Bon
+Eva Gordon, NO, Wendy and Mike Gordon
+Matt Gill, NO, Charles and Sylvia Gill
+Kimmy Stein, NO, Bill and Hillary Stein
+Sharks
+Karl Saygan, YES, Heather Bledsoe
+Suzane Greenberg, YES, Henrietta Dumas
+Diego Soto, YES, Robin and Sarika Soto
+Sammy Adams, NO, Jeff Adams
+Sal Dali, NO, Gala Dali
+Joe Kavalier, NO, Sam and Elaine Kavalier
+Raptors
+Phillip Helm, YES, Thomas Helm and Eva Jones
+Les Clay, YES, Wynonna Brown
+Herschel Krustofski, YES, Hyman and Rachel Krustofski
+Ben Finkelstein, NO, Aaron and Jill Finkelstein
+Chloe Alaska, NO, David and Jamie Alaska
+Arnold Willis, NO, Claire Willis

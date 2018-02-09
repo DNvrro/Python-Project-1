@@ -44,7 +44,21 @@ if __name__ == "__main__":
             else:
                 teams[2]['Players'].append(player)
 
-    with open("teams.txt", 'w') as txtfile:
-        for i in range(len(teams)):
-            txtfile.write(teams[i]['Team'] + '\n')
-            txtfile.write("{}, {}, {}\n".format(teams[i]['Players'][0], teams[i]['Players'][2], teams[i]['Players'][3]))
+
+    #this function enables the teams to be extracted from
+    #their lists and written to the text file in the specified
+    #format
+    def teams_text_writer(player_list):
+        with open("teams.txt", 'a') as file:
+            file.write(player_list["Team"] + '\n')
+            for player in player_list['Players']:
+                player_string = ''
+                player_string += player['Name'] + ', '
+                player_string += player['Soccer Experience'] + ', '
+                player_string += player['Guardian Name(s)']
+                file.write(player_string + '\n')
+                file.write('\n')
+
+    teams_text_writer(teams[0])
+    teams_text_writer(teams[1])
+    teams_text_writer(teams[2])
